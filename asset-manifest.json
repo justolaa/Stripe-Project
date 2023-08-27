@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Stripe-Project/static/css/main.3f9aad70.css",
+    "main.js": "/Stripe-Project/static/js/main.edb6776a.js",
+    "static/media/phone.svg": "/Stripe-Project/static/media/phone.94a7a4fe1f82aed65bc22c10a1c6d6ef.svg",
+    "static/media/logo.svg": "/Stripe-Project/static/media/logo.6ad422bb585e8c12e29343696a1349aa.svg",
+    "static/media/hero.svg": "/Stripe-Project/static/media/hero.acf1e00e9c9a661a4b0a.svg",
+    "index.html": "/Stripe-Project/index.html",
+    "main.3f9aad70.css.map": "/Stripe-Project/static/css/main.3f9aad70.css.map",
+    "main.edb6776a.js.map": "/Stripe-Project/static/js/main.edb6776a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f9aad70.css",
+    "static/js/main.edb6776a.js"
+  ]
+}
